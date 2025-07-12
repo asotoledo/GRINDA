@@ -42,7 +42,7 @@ For questions, collaborations, or partnerships:
 ## 📖 Citation
 
 If you use GRINDA in your research or projects, please cite it as follows: 
-Toledo, Alex S. O. "Graph-based Representation for Intelligence and Network Disruption Analysis." Available at: https://github.com/asotoledo/GRINDA.git
+Toledo, Alex S. O. "Graph-based Representation for Intelligence and Network Disruption Analysis." Available at: https://github.com/asotoledo/GRINDA.git. 2025.
 
 ---
 
