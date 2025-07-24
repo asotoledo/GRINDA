@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+sklearn==1.5.1
+scikit-learn==1.5.1
+networkx==3.3
+scipy==1.13.1
+seaborn==0.13.2
+torch==2.3.0
+torch_geometric==2.6.1
+matplotlib==3.9.2
+IPython==8.27.0
+plotly==5.24.1
+ipywidgets==7.8.1
