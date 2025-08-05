@@ -30,22 +30,6 @@ GRINDA was validated on 51 real criminal networks using police intelligence data
 
 ---
 
-## 📫 Contact
-
-For questions, collaborations, or partnerships:
-	•	Author: Alex S. O. Toledo
-	•	Email: [alex.toledo@ibsp.org.br]
-	•	Institution: Centro Federal de Educação TEcnológica de Minas Gerais / Instituto Brasileiro de Segurança Pública
-
----
-
-## 📖 Citation
-
-If you use GRINDA in your research or projects, please cite it as follows: 
-Toledo, Alex S. O. "Graph-based Representation for Intelligence and Network Disruption Analysis." Available at: https://github.com/asotoledo/GRINDA.git. 2025.
-
----
-
 ## ⚙️ Installation
 
 1.	Install Anaconda (recommended for managing Python environments and scientific packages)
