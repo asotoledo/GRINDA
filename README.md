@@ -35,7 +35,7 @@ GRINDA was validated on 51 real criminal networks using police intelligence data
 For questions, collaborations, or partnerships:
 	•	Author: Alex S. O. Toledo
 	•	Email: [alex.toledo@ibsp.org.br]
-	•	Institution: Centro Federal de Educação TEcnológica de Minas Gerais / Instituto Brasileiro de Segurança Pública
+	•	Institution: Centro Federal de Educação Tecnológica de Minas Gerais / Instituto Brasileiro de Segurança Pública
 
 ---
 
