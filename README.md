@@ -68,6 +68,7 @@ For questions, collaborations, or partnerships:
 ## 📖 Citation
 
 If you use GRINDA in your research or projects, please cite it as follows: 
+
 Toledo, Alex S. O. Graph-based Intelligence for Network Disruption and Analysis. Available at: https://github.com/asotoledo/GRINDA.git. 2025.
 
 ---
