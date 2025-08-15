@@ -80,7 +80,7 @@ Toledo, Alex S. O. Graph-based Intelligence for Network Disruption and Analysis.
 
 ```bash
 git clone https://github.com/asotoledo/GRINDA.git
-cd grinda
+cd GRINDA
 
 pip install -r requirements.txt
 
