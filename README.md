@@ -73,7 +73,7 @@ Toledo, Alex S. O. Graph-based Intelligence for Network Disruption and Analysis.
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation/RUN
 
 1.	Install Anaconda (recommended for managing Python environments and scientific packages)
 2.	Clone the repository and install dependencies:
