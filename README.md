@@ -77,11 +77,11 @@ Toledo, Alex S. O. Graph-based Intelligence for Network Disruption and Analysis.
 
 1.	Install Anaconda (recommended for managing Python environments and scientific packages)
 2.	Clone the repository and install dependencies:
-
 ```bash
 git clone https://github.com/asotoledo/GRINDA.git
 cd GRINDA
-
 pip install -r requirements.txt
+```
+3. Open GRINDA_results.ipynb in the notebook with Jupyter or VS Code.
 
 
