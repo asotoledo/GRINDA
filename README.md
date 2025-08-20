@@ -36,7 +36,7 @@ GRINDA addresses this gap by integrating **state-of-the-art GNN** and **outlier 
 ## 🧠 Key Features
 
 	• Graph Transformation: Converts raw intelligence data into structured graph representations.
-	• Deep Node Embeddings: Learns meaningful embeddings using **GAT** and **GT**.
+	• Deep Node Embeddings: Learns meaningful embeddings using GAT and GT.
 	• Anomaly Detection:
 		-	Isolation Forest;
 		-	Robust Covariance;
