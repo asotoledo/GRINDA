@@ -35,17 +35,17 @@ GRINDA addresses this gap by integrating **state-of-the-art GNN** and **outlier 
 
 ## 🧠 Key Features
 
-• **Graph Transformation**: Converts raw intelligence data into structured graph representations.
-• **Deep Node Embeddings**: Learns meaningful embeddings using **GAT** and **GT**.
-• **Anomaly Detection**:
+• Graph Transformation: Converts raw intelligence data into structured graph representations.
+• Deep Node Embeddings: Learns meaningful embeddings using **GAT** and **GT**.
+• Anomaly Detection:
 	-	Isolation Forest;
 	-	Robust Covariance;
 	-	SGD One-Class SVM;
 	-	Outlier Scores (OS1/OS2);
 	-	Cosine Autoencoder Detection Agent;
 	-	Deep Support Vector Data Description.
-• **Disruption Simulation**: Tests strategic removals to assess structural impact.
-• **Scalability**: Modular design for integration with operational intelligence systems.
+• Disruption Simulation: Tests strategic removals to assess structural impact.
+• Scalability: Modular design for integration with operational intelligence systems.
 
 ---
 
